@@ -35,6 +35,10 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 
 * https://blockchain.info/tx/4d932e00d5e20e31211136651f1665309a11908e438bb4c30799154d26812491
 
+### XSS in output script
+
+* https://blockchain.info/tx/a165c82cf21a6bae54dde98b7e00ab43b695debb59dfe7d279ac0c59d6043e24
+
 ## Addresses
 
 * https://blockchain.info/address/1GktTvnY8KGfAS72DhzGYJRyaQNvYrK9Fg (BIP 30)
@@ -46,6 +50,7 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 * https://blockchain.info/address/1F7w3bZsDeEh3X64kkWoYkhdXkJDZKKdtv (Lots of large txs with lots of inputs)
 * https://blockchain.info/address/1ChainLhQ8P1NEv6pFpVU8Z8RkoBKz6gF9 (Coinbase txs)
 * https://blockchain.info/address/342ftSRCvFHfCeFFBuz4xwbeqnDw6BGUey (First P2SH address)
+* https://blockchain.info/address/1JsJs5d6E5SmJSGUiQ12uF1GDZxTCUWvf (Used in XSS transaction)
 
 ## Blocks
 
@@ -63,3 +68,4 @@ Contributions may be submitted as pull requests to the Master branch or GitHub i
 ## Contributors
 
 * [@kristovatlas](https://github.com/kristovatlas/)
+* [@alecalve](https://github.com/alecalve/)
