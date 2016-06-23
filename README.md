@@ -27,7 +27,7 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 
 * https://blockchain.info/tx/3b87cb74a83f581d8edf1e64c7b9a8053df8505973d200119f3dd5bbbffbcadb
 
-### First P2SH transaction on blockchain [source]()
+### First P2SH transaction on blockchain [[source]](https://medium.com/@chjj/ethereum-is-the-op-eval-of-cryptocurrency-d6beaa17eb50)
 
 * https://blockchain.info/tx/9c08a4d78931342b37fd5f72900fb9983087e6f46c4a097d8a1f52c74e28eaf6
 
