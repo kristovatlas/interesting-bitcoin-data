@@ -62,4 +62,4 @@ Contributions may be submitted as pull requests to the Master branch or GitHub i
 
 ## Contributors
 
-* @kristovatlas
+* [@kristovatlas](https://github.com/kristovatlas/)
