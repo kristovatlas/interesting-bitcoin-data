@@ -39,6 +39,11 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 
 * https://blockchain.info/tx/a165c82cf21a6bae54dde98b7e00ab43b695debb59dfe7d279ac0c59d6043e24
 
+### Unusual SIGHASH_SINGLE transaction that forked bitcoin-ruby
+
+* https://blockchain.info/tx/315ac7d4c26d69668129cc352851d9389b4a6868f1509c6c8b66bead11e2619f
+* https://oxt.me/transaction/315ac7d4c26d69668129cc352851d9389b4a6868f1509c6c8b66bead11e2619f (oxt.me link)
+
 ## Addresses
 
 * https://blockchain.info/address/1GktTvnY8KGfAS72DhzGYJRyaQNvYrK9Fg (BIP 30)
@@ -51,6 +56,7 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 * https://blockchain.info/address/1ChainLhQ8P1NEv6pFpVU8Z8RkoBKz6gF9 (Coinbase txs)
 * https://blockchain.info/address/342ftSRCvFHfCeFFBuz4xwbeqnDw6BGUey (First P2SH address)
 * https://blockchain.info/address/1JsJs5d6E5SmJSGUiQ12uF1GDZxTCUWvf (Used in XSS transaction)
+* https://blockchain.info/address/1Q3cumLg391Nq6ye5AiE2reWcpZghTm5mZ (Used in SIGHASH_SINGLE forking transaction)
 
 ## Blocks
 
@@ -69,3 +75,4 @@ Contributions may be submitted as pull requests to the Master branch or GitHub i
 
 * [@kristovatlas](https://github.com/kristovatlas/)
 * [@alecalve](https://github.com/alecalve/)
+* [@SergioDemianLerner](https://github.com/SergioDemianLerner/)
