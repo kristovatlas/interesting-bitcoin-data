@@ -43,6 +43,7 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 
 * https://blockchain.info/tx/315ac7d4c26d69668129cc352851d9389b4a6868f1509c6c8b66bead11e2619f
 * https://oxt.me/transaction/315ac7d4c26d69668129cc352851d9389b4a6868f1509c6c8b66bead11e2619f (oxt.me link)
+* Reference: https://bitcointalk.org/index.php?topic=260595.0
 
 ## Addresses
 
