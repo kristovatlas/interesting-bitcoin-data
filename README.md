@@ -61,8 +61,10 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 
 ## Blocks
 
-* Block Height 0 (Genesis Block): https://blockchain.info/block-index/14849/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
-* Block Height 210000 (First block after first reward halving): https://blockchain.info/block-index/270670/000000000000048b95347e83192f69cf0366076336c639f9b7228e9ba171342e
+* Block Height 0 (Genesis Block): https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+* Block Height 210000 (First block after first reward halving): https://blockchain.info/block/000000000000048b95347e83192f69cf0366076336c639f9b7228e9ba171342e
+* Block Height 124724 (First block that does not create the full block reward): https://blockchain.info/block/0000000000004c78956f8643262f3622acf22486b120421f893c0553702ba7b5
+* Block Height 164243 (First block that does not create the full block reward due to missing fees): https://blockchain.info/block/0000000000000c04c9d86de177f9320b3c8eca807b25b6b592b5a2b702eb3544
 
 ## Contributions
 
@@ -77,3 +79,4 @@ Contributions may be submitted as pull requests to the Master branch or GitHub i
 * [@kristovatlas](https://github.com/kristovatlas/)
 * [@alecalve](https://github.com/alecalve/)
 * [@SergioDemianLerner](https://github.com/SergioDemianLerner/)
+* [@harrigan](https://github.com/harrigan/)
