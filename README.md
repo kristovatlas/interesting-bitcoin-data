@@ -45,6 +45,10 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 * https://oxt.me/transaction/315ac7d4c26d69668129cc352851d9389b4a6868f1509c6c8b66bead11e2619f (oxt.me link)
 * Reference: https://bitcointalk.org/index.php?topic=260595.0
 
+### First transaction to spend TXO in same block it was created
+
+* https://blockchain.info/tx/6b0f8a73a56c04b519f1883e8aafda643ba61a30bd1439969df21bea5f4e27e2
+
 ## Addresses
 
 * https://blockchain.info/address/1GktTvnY8KGfAS72DhzGYJRyaQNvYrK9Fg (BIP 30)
@@ -62,6 +66,7 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 ## Blocks
 
 * Block Height 0 (Genesis Block): https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+* Block Height 546 (First block to create TXOs and spend them within same block): https://blockchain.info/block/000000005a4ded781e667e06ceefafb71410b511fe0d5adc3e5a27ecbec34ae6
 * Block Height 210000 (First block after first reward halving): https://blockchain.info/block/000000000000048b95347e83192f69cf0366076336c639f9b7228e9ba171342e
 * Block Height 124724 (First block that does not create the full block reward): https://blockchain.info/block/0000000000004c78956f8643262f3622acf22486b120421f893c0553702ba7b5
 * Block Height 164243 (First block that does not create the full block reward due to missing fees): https://blockchain.info/block/0000000000000c04c9d86de177f9320b3c8eca807b25b6b592b5a2b702eb3544
