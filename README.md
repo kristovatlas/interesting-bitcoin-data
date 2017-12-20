@@ -85,3 +85,4 @@ Contributions may be submitted as pull requests to the Master branch or GitHub i
 * [@alecalve](https://github.com/alecalve/)
 * [@SergioDemianLerner](https://github.com/SergioDemianLerner/)
 * [@harrigan](https://github.com/harrigan/)
+* [@devinrsmith](https://github.com/devinrsmith/)
