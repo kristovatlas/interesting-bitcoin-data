@@ -49,6 +49,10 @@ Prior to the BIP 30 fix, transactions could have duplicate hashes/IDs. There are
 
 * https://blockchain.info/tx/6b0f8a73a56c04b519f1883e8aafda643ba61a30bd1439969df21bea5f4e27e2
 
+### Transaction with invalid output scripts
+
+* https://blockchain.info/tx/ebc9fa1196a59e192352d76c0f6e73167046b9d37b8302b6bb6968dfd279b767
+
 ## Addresses
 
 * https://blockchain.info/address/1GktTvnY8KGfAS72DhzGYJRyaQNvYrK9Fg (BIP 30)
